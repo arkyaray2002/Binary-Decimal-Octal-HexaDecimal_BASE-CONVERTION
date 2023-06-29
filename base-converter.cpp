@@ -1,7 +1,7 @@
 #include <iostream>  
- #include <cstdio> 
- #include <cmath> 
- using namespace std;  
+#include <cstdio> 
+#include <cmath> 
+using namespace std;  
   
  void Any2Bin(int number, int initial_base) 
  { 
