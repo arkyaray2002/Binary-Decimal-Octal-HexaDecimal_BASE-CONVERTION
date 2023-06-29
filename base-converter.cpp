@@ -5,7 +5,7 @@ using namespace std;
   
  void Any2Bin(int number, int initial_base) 
  { 
-         int a[10],i; 
+         int a[100],i; 
          for(i=0;number>0;i++)     
          {     
                  a[i] = number%2;     
